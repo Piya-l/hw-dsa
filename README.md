@@ -15,6 +15,6 @@ Please always follow the links below to access the **latest version** of each qu
 
 ## Questions
 
-🔗 https://github.com/Piya-l/learning-by-doing
+🔗 https://github.com/Piya-l/learning-by-doing-DSA
 
 ---
